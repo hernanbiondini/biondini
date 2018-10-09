@@ -88,11 +88,11 @@ public class Ejercicio4 {
 			}
 		}
 		if (c > lista1.size() / 2) {
-			System.out.println("..."); // la cantidad de numeros > 10 es mayor que el tamaño de la mitad de la lista
+			System.out.println("...");  // la cantidad de numeros > 10 es mayor que el tamaño de la mitad de la lista
 		} else if (c > 0) {
-			System.out.println("..."); // la cantidad de numeros > 10 es mayor a 0
+			System.out.println("...");  // la cantidad de numeros > 10 es mayor a 0
 		} else {
-			System.out.println(".."); // la cantidad de numeros > 10 es menor a 0
+			System.out.println("..");  // la cantidad de numeros > 10 es menor a 0
 		}
 	}
 
